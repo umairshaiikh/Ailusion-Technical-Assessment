@@ -19,6 +19,20 @@ This repository contains the code and resources for the Ailusion technical asses
 
 ---
 
+## Requirements
+- **Python 3.8+**
+- **Julia 1.8+**
+- GPU (optional but recommended for faster image generation)
+
+---
+
+## Setup Instructions
+
+### Python Setup
+1. Navigate to the `python` folder:
+   ```bash
+   cd python
+
 
 
    
