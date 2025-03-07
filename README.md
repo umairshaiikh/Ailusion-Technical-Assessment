@@ -1,4 +1,4 @@
-# PedalStart Ailusion Hiring Task
+# PedalStart Ailusion Task
 
 ## Instructions
 1. Install dependencies:
