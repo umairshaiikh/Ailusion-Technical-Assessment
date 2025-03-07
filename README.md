@@ -1,25 +1,24 @@
-# PedalStart Ailusion Task
+# Ailusion Technical Assessment
 
-## Instructions
-1. Install dependencies:
-   - Python: `pip install diffusers transformers torch torchvision pillow`
-   - Julia: `using Pkg; Pkg.add("Flux")`
-2. Run the Python scripts to generate and preprocess images.
-3. Run the Julia script to perform a forward pass with the Flux model.
+This repository contains the code and resources for the Ailusion technical assessment. The task involves generating synthetic images using Stable Diffusion, preprocessing the images, and performing a forward pass using a minimal Flux-based neural network in Julia.
 
-## Approach
-- Generated 3 synthetic images using Stable Diffusion.
-- Preprocessed images by resizing to 224x224 and normalizing pixel values.
-- Created a minimal Flux model with convolutional and dense layers.
-- Performed a forward pass on one preprocessed image.
+---
 
-## Challenges
-- Hardware limitations for image generation.
-- Adjusting input dimensions for the Flux model.
+## Table of Contents
+1. [Project Structure](#project-structure)
+2. [Requirements](#requirements)
+3. [Setup Instructions](#setup-instructions)
+   - [Python Setup](#python-setup)
+   - [Julia Setup](#julia-setup)
+4. [Running the Code](#running-the-code)
+   - [Synthetic Image Generation](#synthetic-image-generation)
+   - [Image Preprocessing](#image-preprocessing)
+   - [Flux Model Forward Pass](#flux-model-forward-pass)
+5. [Output](#output)
+6. [Notes](#notes)
+
+---
 
 
-## Python Setup
-1. Install dependencies:
-   ```bash
-   pip install -r python/requirements.txt
+
    
