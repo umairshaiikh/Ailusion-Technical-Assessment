@@ -16,7 +16,7 @@
 ## Challenges
 - Hardware limitations for image generation.
 - Adjusting input dimensions for the Flux model.
-- # PedalStart Ailusion Hiring Task
+
 
 ## Python Setup
 1. Install dependencies:
